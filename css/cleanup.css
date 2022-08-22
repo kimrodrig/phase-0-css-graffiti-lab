@@ -1,1 +1,21 @@
-/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    background-color: black;
+    height: 1;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#wall .tag-3 {
+    display: none;
+    background-color: black;
+    height: 1;
+    font-family: 'Franklin Gothic Medium';
+
+  }
+#wall .tag-1 {
+    display: none;
+    background-color: black;
+    height: 1;
+    font-family: 'Franklin Gothic Medium';
+
+  }
